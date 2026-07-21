@@ -4,4 +4,18 @@ It is a program that exposes capabilities (called tools, resources, and prompts)
 
 ---
 
-# Core Concepts & Architecture
+# Why does an AI need tools?
+
+ChatGPT only knows information already in its context.
+
+It cannot
+- open files
+- search folders
+- access GitHub
+- call APIs
+- query databases
+
+Tools extend its capabilities.
+
+Think of the LLM as the "brain" and tools as the "hands."
+
