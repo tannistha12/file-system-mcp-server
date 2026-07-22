@@ -19,3 +19,6 @@ Tools extend its capabilities.
 
 Think of the LLM as the "brain" and tools as the "hands."
 
+# JSON-RPC
+
+JSON-RPC 2.0 is a lightweight remote procedure call (RPC) protocol that uses JSON (JavaScript Object Notation) for data encoding. It allows a client to call methods on a server and receive responses, all over a network.
